@@ -1,9 +1,8 @@
 # Procedural Dungeon Example
 
 [![Plugin version number](https://img.shields.io/badge/Plugin_Version-3.0.0-blue)][1]
-[![Unreal Engine Supported Versions](https://img.shields.io/badge/Unreal_Engine-5.2-9455CE?logo=unrealengine)
-](https://github.com/BenPyton/ProceduralDungeon/releases)
-![License](https://img.shields.io/github/license/BenPyton/DungeonExample?label=License&color=blue)
+![Unreal Engine Supported Versions](https://img.shields.io/badge/Unreal_Engine-5.2-9455CE?logo=unrealengine)
+[![License](https://img.shields.io/github/license/BenPyton/DungeonExample?label=License&color=blue)](LICENSE)
 [![Actively Maintained](https://img.shields.io/badge/Maintenance%20Level-Actively%20Maintained-green.svg)](https://gist.github.com/cheerfulstoic/d107229326a01ff0f333a1d3476e068d)
 
 ${\color{orange}\boxed{DISCLAIMER}}$ This is still a Work in Progress, some behaviors may not be implemented correctly yet.
