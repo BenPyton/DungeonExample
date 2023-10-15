@@ -33,9 +33,9 @@ Optionally, you can turn it into a C++ project by creating a C++ class from the 
 This project is under [Creative Common 0 license](LICENSE).  
 ![CC0-License](https://licensebuttons.net/p/zero/1.0/88x31.png)
 
-Sponsor Me
----
- If you like my plugin and/or this example project, please consider supporting me:
+## Sponsor Me
+
+If you like my plugin and/or this example project, please consider supporting me:
 
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/M4M3NW2JV)
 [![Donate using Liberapay](https://liberapay.com/assets/widgets/donate.svg)](https://liberapay.com/BenPyton/donate)
