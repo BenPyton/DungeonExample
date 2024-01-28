@@ -9,11 +9,12 @@ ${\color{orange}\boxed{DISCLAIMER}}$ This is still a Work in Progress, some beha
 
 This is an example project for my [Procedural Dungeon plugin][1].  
 
-Only the version 3.0.0 of the plugin is currently supported by this project.
+This project uses version 3.0 of the plugin.\
+You can upgrade to a newer plugin version but be careful when downgrading to an older plugin version.
 
 This is a blueprint-only project but you can turn it as a C++ project if you like to.
 
-You can also change the targeted Unreal Engine version but be careful for versions prior to UE 5.2 as it can break some features used in the project.
+You can also change the targeted Unreal Engine version but be careful for versions prior to UE 5.2 as it can break some features used in the project (e.g. the enhanced input system).
 
 ## Installation
 
