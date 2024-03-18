@@ -10,11 +10,11 @@ ${\color{orange}\boxed{DISCLAIMER}}$ This is still a Work in Progress, some beha
 This is an example project for my [Procedural Dungeon plugin][1].
 
 This project uses version 3.1 of the plugin.\
-You can upgrade to a newer plugin version but be careful when downgrading to an older plugin version.
+You can upgrade to a newer plugin version but be careful when downgrading to an older plugin version, as some features may be missing.
 
 This is a blueprint-only project but you can turn it as a C++ project if you like to.
 
-You can also change the targeted Unreal Engine version but be careful for versions prior to UE 5.2 as it can break some features used in the project (e.g. the enhanced input system).
+You can also upgrade the targeted Unreal Engine version (by right-clicking on the `.uproject`), but you will **not** be able to downgrade to UE 5.1 or older.
 
 If you have any issue, a bug or a crash, you can open an issue ticket in this repo.\
 If you want help or ask questions about this example project or the plugin, you can join the [Discord server](https://discord.gg/YE2dPda2CC) dedicated to them.
