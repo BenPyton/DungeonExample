@@ -1,6 +1,6 @@
 # Procedural Dungeon Example
 
-[![Plugin version number](https://img.shields.io/badge/Plugin_Version-3.7-blue)][1]
+[![Plugin version number](https://img.shields.io/badge/Plugin_Version-3.8-blue)][1]
 ![Unreal Engine Supported Versions](https://img.shields.io/badge/Unreal_Engine-5.5+-9455CE?logo=unrealengine)
 [![License](https://img.shields.io/github/license/BenPyton/DungeonExample?label=License&color=blue)](LICENSE)
 [![Actively Maintained](https://img.shields.io/badge/Maintenance%20Level-Actively%20Maintained-green.svg)](https://gist.github.com/cheerfulstoic/d107229326a01ff0f333a1d3476e068d)
@@ -10,8 +10,8 @@
 
 This is an example project for my [Procedural Dungeon plugin][1].
 
-This project uses version 3.7 of the plugin.\
-You can upgrade to a **newer plugin** version but be careful when downgrading to an older plugin version, as some features may be missing.
+This project requires version **3.8** or greater of the plugin.\
+You can upgrade to a **newer plugin** version but be careful when downgrading to an older plugin version, as some features may be missing or broken.
 
 This is a blueprint-only project but you can turn it as a C++ project if you like to.
 
